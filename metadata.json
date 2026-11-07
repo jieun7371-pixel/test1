@@ -1,0 +1,6 @@
+{
+  "name": "중학 과학 제스처 퀴즈 (MediaPipe)",
+  "description": "MediaPipe 손가락 인식 제스처(1~4개 1.5초 유지)로 정답을 맞히는 중학교 과학 10문제 퀴즈 웹앱. 브라우저 로컬 비디오 처리 및 마우스 대체 지원.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
